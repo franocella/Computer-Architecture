@@ -15,7 +15,7 @@ This project provides a deep dive into optimizing a multi-threaded C++ text proc
 * **Optimization:** Replacing the standard library with Google's high-performance `re2` engine. 
 * **Results:** Achieving a **4x to 8x increase in throughput** and demonstrating excellent scalability on multi-core processors. 
 
-**[>> Go to the full CPU Project README](CA-project-CPU/README.md)**
+**[>> Go to the full CPU Project README](CA-project-CPU/readme.md)**
 
 ### 2. GPU Optimization: Accelerating a Neural Network with CUDA & cuBLAS
 
@@ -24,7 +24,7 @@ This project is a comparative study of two CUDA C++ implementations of a Multi-L
 * **An optimized solution:** Using the `cublasSgemm` routine from NVIDIA's highly-optimized cuBLAS library.
 * **Results:** The cuBLAS implementation shows an immense **>22x increase in computational throughput (GFLOPS)**, demonstrating the power of vendor-optimized libraries for common deep learning operations.
 
-**[>> Go to the full GPU Project README](CA-project-GPU/README.md)**
+**[>> Go to the full GPU Project README](CA-project-GPU/readme.md)**
 
 ---
 
