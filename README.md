@@ -30,10 +30,8 @@ This project is a comparative study of two CUDA C++ implementations of a Multi-L
 
 ## 👥 Authors
 
-Both projects were developed by:
-
-* Mattia Gemelli
-* Francesco Nocella
+* [**Francesco Nocella**](https://github.com/franocella)
+* [**Mattia Gemelli**](https://github.com/Gwme13 )
 
 ## 📜 License
 
