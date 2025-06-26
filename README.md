@@ -24,7 +24,7 @@ This project is a comparative study of two CUDA C++ implementations of a Multi-L
 * **An optimized solution:** Using the `cublasSgemm` routine from NVIDIA's highly-optimized cuBLAS library.
 * **Results:** The cuBLAS implementation shows an immense **>22x increase in computational throughput (GFLOPS)**, demonstrating the power of vendor-optimized libraries for common deep learning operations.
 
-**[>> Go to the full GPU Project README](CA-project-GPU/readme.md)**
+**[>> Go to the full GPU Project README](CA-project-GPU/README.md)**
 
 ---
 
